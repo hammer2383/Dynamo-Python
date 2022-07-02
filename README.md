@@ -1,8 +1,8 @@
 # Dynamo-Python
-Python code that I used in my Dynamo sciprt
+Python code that I used in my Dynamo script
 
-A lot of time it's quite simple program which boiled down to; take some infomation from some element, do something with it, and put it into some where within those element. Which wouldn't be put here.
-Here's the list of the some of the programs and short description of it. (Some program's name are quite self-explainatory)
+A lot of time it quite simple program which boiled down to; take some infomation from some element, do something with it, and put it into some where within those element. Which wouldn't be put here.
+Here's the list of the some of the programs and short description of it. (Since some programs name are quite self-explainatory)
 
 AddUserNameToView - add the user name in Revit to the view name, this is to solve the problem when someone batch duplicated view and have to manually rename the view.
 
@@ -23,10 +23,3 @@ JoiningWallandFloor - As the name suggested it will join wall and floor element 
 MultipleRailRehost - Rehost rail element to the closest stair.
 
 URLchanger - Since our company have to ship the whole model to our contractor (Which is the Design firm at the time of the creation). A lot of family that has a direct link to technical information which usually in pdf file, would be not be usuable since Revit stored directory as absolute address. This program will re-link all of those files by using relative path from the main RVT file (of course if their messed up the folder structure this program wouldn't work).
-
-
-
-
-
-
-
