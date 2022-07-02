@@ -1,8 +1,8 @@
 # Dynamo-Python
 Python code that I used in my Dynamo sciprt
 
-Here's the list of the some of the programs and short description of it. (Some program's name are quite self-explainatory)
 A lot of time it's quite simple program which boiled down to; take some infomation from some element, do something with it, and put it into some where within those element. Which wouldn't be put here.
+Here's the list of the some of the programs and short description of it. (Some program's name are quite self-explainatory)
 
 AddUserNameToView - add the user name in Revit to the view name, this is to solve the problem when someone batch duplicated view and have to manually rename the view.
 
