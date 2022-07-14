@@ -1,5 +1,5 @@
 # Dynamo-Python
-Python code that I used in my Dynamo script
+# Python code that I used in my Dynamo script
 
 A lot of time it quite simple program which boiled down to; take some infomation from some element, do something with it, and put it into some where within those element. Which wouldn't be put here.
 Here's the list of the some of the programs and short description of it. (Since some programs name are quite self-explainatory)
