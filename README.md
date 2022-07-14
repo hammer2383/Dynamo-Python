@@ -5,7 +5,7 @@ A lot of time it quite simple program which boiled down to; take some infomation
 
 Here's the list of the some of the programs and short description of it. (Since some programs name are quite self-explainatory)
 
-* **AddUserNameToView** - add the user name in Revit to the view name, this is to solve the problem when someone batch duplicated view and have to manually rename the view.
+* **AddUserNameToView** #DuckPro - add the user name in Revit to the view name, this is to solve the problem when someone batch duplicated view and have to manually rename the view.
 
 * ArtInstallationPatternMaker - use to create the Art Wall model for SiamScape building project, here is the link to what it look like; [image from twitter](https://twitter.com/hashtag/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B9%80%E0%B8%84%E0%B8%9B).
 
